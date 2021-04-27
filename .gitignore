@@ -53,7 +53,7 @@ dkms.conf
 
 ##############################################
 # Comments
-*.txt
+# *.txt
 
 # Archives
 *.tar.gz
