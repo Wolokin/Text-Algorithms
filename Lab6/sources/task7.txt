@@ -1,0 +1,6 @@
+=========Divided into 2 parts=========
+Searching time: 0.9772503497999423
+=========Divided into 4 parts=========
+Searching time: 0.9691310410998994
+=========Divided into 8 parts=========
+Searching time: 0.9755429782999272

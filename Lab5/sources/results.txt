@@ -1,0 +1,54 @@
+Without stoplist
+####################################
+
+DICE metric
+Outliers: 2619
+Clusters: 1043
+Davies-Bouldin index: 0.9140761450225531
+Dunn index: 0.6970776881331544
+
+Cosine metric
+Outliers: 2309
+Clusters: 1012
+Davies-Bouldin index: 1.1688145054931731
+Dunn index: 0.5044048744544906
+
+Levenshtein metric
+Outliers: 2605
+Clusters: 1012
+Davies-Bouldin index: 1.1544761769279235
+Dunn index: 0.6009763876958781
+
+LCS metric
+Outliers: 5115
+Clusters: 623
+Davies-Bouldin index: 0.9172216859878096
+Dunn index: 0.770157526611526
+
+
+With stoplist
+####################################
+
+DICE metric
+Outliers: 2550
+Clusters: 1074
+Davies-Bouldin index: 0.8617682589812278
+Dunn index: 0.7146632102244141
+
+Cosine metric
+Outliers: 2295
+Clusters: 1054
+Davies-Bouldin index: 1.0171914682721106
+Dunn index: 0.616151350523938
+
+Levenshtein metric
+Outliers: 2661
+Clusters: 1032
+Davies-Bouldin index: 1.0480100764096638
+Dunn index: 0.6907797609418034
+
+LCS metric
+Outliers: 4119
+Clusters: 872
+Davies-Bouldin index: 0.810183747206242
+Dunn index: 0.7803394943731271

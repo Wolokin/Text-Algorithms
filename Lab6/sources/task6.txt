@@ -1,0 +1,9 @@
+=========Small pattern=========
+Preprocessing time: 0.004592970500016236
+Searching time: 1.0887323621998803
+=========Medium pattern=========
+Preprocessing time: 0.1500062629002059
+Searching time: 0.9383168405998731
+=========Big pattern=========
+Preprocessing time: 2.218663644499975
+Searching time: 0.9668237744997896

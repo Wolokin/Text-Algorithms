@@ -1,0 +1,6 @@
+Found 298 occurences of r.png
+Should find 339
+Found 21 occurences of k.png
+Should find 22
+Found 310 occurences of o.png
+Should find 369
